@@ -828,8 +828,9 @@ a:focus {
 .label {
   padding: 0.3em 0.6em;
 }
+
 .container {
-  width: auto;
+    width: auto;
 }
 .navbar {
   margin: 0 0 0 -15px;

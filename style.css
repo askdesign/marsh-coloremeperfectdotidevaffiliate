@@ -3281,7 +3281,7 @@ hr.separator {
 
 .portlet .portlet-footer {
     padding: 10px 15px;
-    background: #f2f2f2;
+    background: #efeeec;
     border-top: 1px solid #e5e5e5;
 }
 
@@ -7741,6 +7741,9 @@ form .form-group.has-warning > .input-icon [class*="fa-"], form .form-group.has-
 
 form .form-group.has-error > .input-icon [class*="fa-"], form .form-group.has-error > .input-icon [class^="fa-"], form .form-group.has-error > .input-icon [class*="glyphicon-"], form .form-group.has-error > .input-icon [class^="glyphicon-"] {
     color: #a94442;
+}
+.form-horizontal .form-group {
+    padding-top: 15px;
 }
 
 form .input-icon {

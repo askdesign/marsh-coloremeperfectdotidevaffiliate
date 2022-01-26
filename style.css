@@ -8,6 +8,7 @@ body {
     font-family: Avenir Next,sans-serif;
     font-size: 14px;
     color: #686868;
+    color: #545454;
     min-height: 100%;
     padding-bottom: 0;
     margin: 0;
@@ -272,7 +273,7 @@ a, a:visited, a:focus, a:active, a:hover {
 }
 
 .bottom-section-inner-center ul li a {
-    color: #9b9b9b;
+    color: #ffffff;
 }
 
 .bottom-section-inner-right ul li {
@@ -285,7 +286,7 @@ a, a:visited, a:focus, a:active, a:hover {
     float: left;
     font-size: 14px;
     font-weight: normal;
-    padding: 0 0 5px 20px;
+    padding: 3px 0 5px 20px;
     width: 80%;
     text-align: left;
 }
@@ -547,7 +548,7 @@ body .nav > li > a:hover, .nav > li > a:focus {
 }
 
 .footer-content-end {
-    background: none repeat scroll 0 0 #121212;
+    background: none repeat scroll 0 0 #e7e7e7;
     float: left;
     padding: 10px 0;
     width: 100%;

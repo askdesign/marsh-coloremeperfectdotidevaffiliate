@@ -2518,9 +2518,9 @@ hr.separator {
 }
 
 .btn-primary {
-    color: #ffffff;
-    background-color: #4e72c2;
-    border-color: #3f64b7;
+    color: #545454;
+    background-color: #fff0;
+    border-color: #54545C;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
@@ -2543,11 +2543,13 @@ hr.separator {
     background-color: #ffffff;
 }
 
+
 .btn-primary:hover, .btn-primary:focus, .btn-primary.focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
     color: #ffffff;
-    background-color: #3f64b7;
-    border-color: #3f64b7;
+    background-color: #545454;
+    border-color: #545454;
 }
+
 
 .btn-success {
     color: #ffffff;

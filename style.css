@@ -4121,6 +4121,12 @@ input[type=checkbox].tc.tc-switch.tc-switch-7:checked + .labels::after {
     color: #31708f;
 }
 
+.alert-success {
+    color: #545454;
+    background-color: #efeeec;
+    border-color: #4ec28c;
+}
+
 .alert.alert-danger a, .note.alert-danger a, .alert.note-danger a, .note.note-danger a {
     color: #a94442;
 }
